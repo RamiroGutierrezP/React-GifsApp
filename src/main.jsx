@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client'
 
 import { GifApp } from './GifApp.jsx'
 import './styles.css'
+import 'animate.css';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
