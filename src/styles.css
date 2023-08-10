@@ -28,6 +28,8 @@
   }
   
   .card-grid {
+    animation: fadeIn;
+    animation-duration: 3s;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -66,4 +68,6 @@
   
   .card img {
     width: 100%;
+    animation: fadeIn;
+    animation-duration: 3s;
   }
